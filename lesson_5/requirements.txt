@@ -1,0 +1,4 @@
+chromedriver_autoinstaller==0.2.2
+pymongo==4.0.1
+selenium==3.141.0
+beautifulsoup4==4.10.0
